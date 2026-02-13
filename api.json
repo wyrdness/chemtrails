@@ -1,10 +1,8 @@
 {
-  "category": "CONSPIRACY_THEORY",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/chemtrails",
     "maintainers": [
       {
@@ -18,284 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "chemtrails",
     "name": "Chemtrails",
-    "aliases": [
-      {
-        "name": "Chemical Trails",
-        "meaning": "Full form of chemtrails"
-      },
-      {
-        "name": "Aerosol Spraying",
-        "meaning": "Alternative conspiracy theory term"
-      },
-      {
-        "name": "Stratospheric Aerosol Geoengineering",
-        "meaning": "Technical-sounding variant"
-      }
-    ],
+    "aliases": [],
     "category": "CONSPIRACY_THEORY",
-    "subcategory": "Environmental",
+    "subcategory": "| Claim | Reality |",
     "tags": [
-      "aviation",
-      "atmospheric",
-      "government-conspiracy",
-      "debunked",
-      "pseudoscience",
-      "weather-related"
+      "folklore",
+      "mythology"
     ],
-    "status": "debunked",
+    "status": "documented",
     "description": {
-      "summary": "Conspiracy theory that aircraft contrails are actually chemical or biological agents deliberately sprayed by governments for nefarious purposes. Scientific consensus identifies these as ordinary contrails - condensation trails formed by water vapor.",
-      "full": "The chemtrails conspiracy theory claims that the long-lasting condensation trails (contrails) left by aircraft are actually chemical or biological agents intentionally sprayed for purposes such as population control, weather modification, mind control, or biological warfare. In reality, contrails are well-understood atmospheric phenomena consisting of water vapor from aircraft engine exhaust that condenses and freezes in cold atmospheric conditions. The persistence and spread of contrails depends on atmospheric humidity, temperature, and wind conditions. Scientists, pilots, and meteorologists universally reject chemtrail claims as pseudoscience."
+      "summary": "The chemtrails conspiracy theory claims that the long-lasting condensation trails (contrails) left by aircraft are actually chemical or biological agents intentionally sprayed by governments for purposes such as population control, weather modification, mind control, or biological warfare.",
+      "full": "The chemtrails conspiracy theory claims that the long-lasting condensation trails (contrails) left by aircraft are actually chemical or biological agents intentionally sprayed by governments for purposes such as population control, weather modification, mind control, or biological warfare."
     },
     "etymology": {
-      "origin": "Portmanteau of 'chemical' and 'trails', coined in the 1990s by conspiracy theorists to distinguish from legitimate 'contrails' (condensation trails)",
-      "meaning": "Alleged chemical trails left by aircraft",
-      "first_use": "Mid-1990s"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CONSPIRACY_THEORY",
-      "type": "Government/Environmental",
-      "subtype": "Aviation-related",
-      "variant": "Pseudoscientific"
+      "type": "| Claim | Reality |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "haarp",
-        "name": "HAARP Weather Control",
-        "relationship": "related",
-        "description": "Another weather modification conspiracy theory"
-      },
-      {
-        "id": "cloud-seeding",
-        "name": "Cloud Seeding",
-        "relationship": "misunderstood",
-        "description": "Legitimate weather modification technique often confused with chemtrails"
-      },
-      {
-        "id": "new-world-order",
-        "name": "New World Order",
-        "relationship": "connected",
-        "description": "Often cited as alleged architects of chemtrail program"
-      }
-    ]
+    "related_phenomena": []
   },
-
-  "claims": {
-    "alleged_purposes": [
-      {
-        "claim": "Population control",
-        "description": "Chemicals allegedly used to reduce population or cause sterility",
-        "evidence_claimed": "None credible",
-        "debunking": "No evidence of toxic chemicals in contrails; normal atmospheric composition"
-      },
-      {
-        "claim": "Weather modification",
-        "description": "Chemicals allegedly used to control weather patterns",
-        "evidence_claimed": "Grid patterns in sky",
-        "debunking": "Grid patterns result from normal flight paths; contrail persistence depends on atmospheric conditions"
-      },
-      {
-        "claim": "Mind control",
-        "description": "Chemicals allegedly used to control or pacify populations",
-        "evidence_claimed": "Behavioral changes in population",
-        "debunking": "No mechanism for chemical mind control via high-altitude spraying; no evidence of such chemicals"
-      },
-      {
-        "claim": "Biological warfare testing",
-        "description": "Testing of biological agents on unwitting populations",
-        "evidence_claimed": "Increased illness rates",
-        "debunking": "No correlation between contrails and illness; normal disease patterns"
-      }
-    ],
-    "alleged_evidence": [
-      {
-        "type": "Visual appearance",
-        "description": "Persistent contrails that spread across sky",
-        "reality": "Normal behavior in high-humidity atmospheric conditions"
-      },
-      {
-        "type": "Grid patterns",
-        "description": "Intersecting contrails forming grid-like patterns",
-        "reality": "Result of normal flight paths along airways and routes"
-      },
-      {
-        "type": "Variable persistence",
-        "description": "Some contrails dissipate quickly, others persist",
-        "reality": "Depends on atmospheric humidity, temperature, and pressure"
-      },
-      {
-        "type": "Chemical analysis",
-        "description": "Claims of finding aluminum, barium, strontium",
-        "reality": "Misinterpretation of normal atmospheric or soil composition"
-      }
-    ]
-  },
-
-  "scientific_explanation": {
-    "contrail_formation": {
-      "process": "Aircraft engines produce hot, humid exhaust. When this exhaust meets cold air at high altitude, water vapor condenses into tiny ice crystals, forming a visible trail.",
-      "conditions_required": [
-        "High altitude (typically above 26,000 feet)",
-        "Low temperature (below -40°C)",
-        "Sufficient atmospheric humidity",
-        "Aircraft engine exhaust containing water vapor"
-      ],
-      "chemistry": "Combustion of jet fuel (hydrocarbon) produces water vapor (H2O) and carbon dioxide (CO2). Water vapor condenses/freezes into ice crystals."
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "persistence_factors": {
-      "humidity": "High humidity allows contrails to persist and spread; low humidity causes rapid dissipation",
-      "temperature": "Colder temperatures favor ice crystal formation and persistence",
-      "wind": "Wind patterns can spread and distort contrails into various shapes",
-      "atmospheric_stability": "Stable air allows contrails to remain intact longer"
-    },
-    "scientific_consensus": "Atmospheric scientists, aviation experts, and meteorologists universally agree contrails are water vapor condensation, not chemical spraying. Numerous peer-reviewed studies confirm this."
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
   },
-
-  "debunking": {
-    "expert_statements": [
-      {
-        "source": "Atmospheric scientists",
-        "statement": "Contrails are well-understood water vapor condensation phenomena",
-        "credentials": "Peer-reviewed atmospheric science research"
-      },
-      {
-        "source": "Commercial pilots",
-        "statement": "No chemical tanks on commercial aircraft; contrails are engine exhaust condensation",
-        "credentials": "Direct knowledge of aircraft systems"
-      },
-      {
-        "source": "Meteorologists",
-        "statement": "Contrail behavior entirely explained by atmospheric conditions",
-        "credentials": "Weather pattern expertise"
-      }
-    ],
-    "logical_flaws": [
-      "Massive conspiracy would require thousands of complicit pilots, mechanics, scientists",
-      "No credible evidence of chemical tanks on commercial aircraft",
-      "Alleged chemicals would disperse far too widely to target specific areas",
-      "High-altitude spraying inefficient method for ground-level effects",
-      "No unexplained illness patterns correlating with contrails"
-    ],
-    "legitimate_programs": {
-      "cloud_seeding": {
-        "description": "Real weather modification technique using silver iodide to encourage precipitation",
-        "difference": "Disclosed, regulated, low-altitude, specific operations - not secret high-altitude spraying",
-        "purpose": "Drought relief, snowpack enhancement, hail suppression"
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
       }
     }
   },
-
   "history": {
     "origins": {
-      "period": "1990s",
-      "context": "Emerged during rise of internet conspiracy theories",
-      "initial_spread": "Online forums, conspiracy websites, radio shows"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1996",
-        "event": "Early chemtrail claims appear",
-        "significance": "Conspiracy theory begins circulating on internet",
-        "source": "Early conspiracy websites"
-      },
-      {
-        "date": "2000",
-        "event": "EPA and other agencies receive inquiries",
-        "significance": "Theory gains enough traction to require official responses",
-        "source": "Government agency statements"
-      },
-      {
-        "date": "2016",
-        "event": "Major scientific study published",
-        "significance": "Survey of 77 atmospheric chemists: 76 found no evidence of chemtrails",
-        "source": "Environmental Research Letters journal"
-      }
-    ],
-    "spread": "Amplified by internet, social media, and YouTube videos. Confirmation bias and pattern-seeking behavior contribute to persistence despite debunking."
+    "timeline": []
   },
-
-  "psychology": {
-    "cognitive_factors": [
-      {
-        "factor": "Pattern-seeking",
-        "description": "Human tendency to find patterns in random phenomena",
-        "relevance": "Grid patterns in sky appear designed rather than coincidental"
-      },
-      {
-        "factor": "Distrust of authority",
-        "description": "Skepticism toward government and institutions",
-        "relevance": "Predisposition to believe in government conspiracies"
-      },
-      {
-        "factor": "Confirmation bias",
-        "description": "Seeking information that confirms existing beliefs",
-        "relevance": "Interpreting all contrails as evidence of spraying"
-      },
-      {
-        "factor": "Illusory correlation",
-        "description": "Perceiving relationships between unrelated events",
-        "relevance": "Attributing illness or weather to contrails without evidence"
-      }
-    ],
-    "social_factors": [
-      "Community and identity around shared belief",
-      "Sense of special knowledge or awareness",
-      "Reaction to feelings of powerlessness",
-      "Distrust amplified by echo chambers"
-    ]
-  },
-
-  "cultural_impact": {
-    "media": [
-      "Documentary films promoting theory",
-      "YouTube channels dedicated to chemtrail watching",
-      "Social media groups and pages"
-    ],
-    "activism": [
-      "Protests and demonstrations",
-      "Petitions to government agencies",
-      "Lobbying for anti-geoengineering legislation"
-    ],
-    "consequences": [
-      "Harassment of atmospheric scientists",
-      "Distraction from real environmental issues",
-      "Erosion of trust in legitimate science",
-      "Gateway to other conspiracy theories"
-    ]
-  },
-
-  "sources": [
-    {
-      "id": "shearer-2016",
-      "type": "journal",
-      "title": "Quantifying expert consensus against the existence of a secret large-scale atmospheric spraying program",
-      "authors": ["Christine Shearer", "Mick West", "Ken Caldeira", "Steven J. Davis"],
-      "publication": "Environmental Research Letters",
-      "date": "2016-08",
-      "doi": "10.1088/1748-9326/11/8/084011"
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
     },
-    {
-      "id": "faa-contrails",
-      "type": "website",
-      "title": "Contrail Formation Explanation",
-      "organization": "Federal Aviation Administration",
-      "url": "https://www.faa.gov/",
-      "accessed": "2026-01-14"
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
-    {
-      "id": "noaa-contrails",
-      "type": "website",
-      "title": "Contrails Facts",
-      "organization": "National Oceanic and Atmospheric Administration",
-      "url": "https://www.noaa.gov/",
-      "accessed": "2026-01-14"
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
-  ]
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
